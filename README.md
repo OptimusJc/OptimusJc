@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and UI/UX design
 - 💞️ I’m looking to collaborate...
-- 📫 How to reach me Email:optimus.prime.jc@gmail.com Twitter:@optimus_jc
+- 📫 How to reach me Email:otienoj.cruz@gmail.com Twitter:@optimus_jc
 
 <!---
 OptimusJc/OptimusJc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
