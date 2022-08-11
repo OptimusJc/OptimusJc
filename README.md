@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @OptimusJc
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and UI/UX design
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me Email:otienoj.cruz@gmail.com Twitter:@optimus_jc
 
