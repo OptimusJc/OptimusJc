@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @OptimusJc
 
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me Email:otienoj.cruz@gmail.com Twitter:@optimus_jc
+- 🤝 I’m looking to collaborate...
+- 📫 Email: otienoj.cruz@gmail.com
+- 🐦 Twitter: @optimus_jc
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OptimusJc&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
